@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 53849da8f58a30c42a0e0b1b644bb749
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: Back Light
+    100004: back light red
+    100006: Back window
+    100008: Back window01
+    100010: Body01
+    100012: Box01
+    100014: Box02
+    100016: Box03
+    100018: Box12
+    100020: Box13
+    100022: Box14
+    100024: Box15
+    100026: Box16
+    100028: Box19
+    100030: Box20
+    100032: Box21
+    100034: Box22
+    100036: Box23
+    100038: Box24
+    100040: Box25
+    100042: Box26
+    100044: Box27
+    100046: Box28
+    100048: Circle01
+    100050: Circle02
+    100052: Circle03
+    100054: Circle04
+    100056: Cylinder05
+    100058: Cylinder06
+    100060: Cylinder07
+    100062: Cylinder08
+    100064: Cylinder09
+    100066: Cylinder10
+    100068: Cylinder100
+    100070: Cylinder101
+    100072: Cylinder102
+    100074: Cylinder103
+    100076: Cylinder104
+    100078: Cylinder105
+    100080: Cylinder106
+    100082: Cylinder107
+    100084: Cylinder108
+    100086: Cylinder109
+    100088: Cylinder11
+    100090: Cylinder110
+    100092: Cylinder111
+    100094: Cylinder112
+    100096: Cylinder113
+    100098: Cylinder114
+    100100: Cylinder115
+    100102: Cylinder116
+    100104: Cylinder117
+    100106: Cylinder118
+    100108: Cylinder119
+    100110: Cylinder120
+    100112: Cylinder121
+    100114: Cylinder122
+    100116: Cylinder123
+    100118: Cylinder124
+    100120: Cylinder125
+    100122: Cylinder126
+    100124: Cylinder127
+    100126: Cylinder128
+    100128: Cylinder129
+    100130: Cylinder13
+    100132: Cylinder130
+    100134: Cylinder131
+    100136: Cylinder132
+    100138: Cylinder133
+    100140: Cylinder134
+    100142: Cylinder135
+    100144: Cylinder136
+    100146: Cylinder137
+    100148: Cylinder138
+    100150: Cylinder139
+    100152: Cylinder14
+    100154: Cylinder140
+    100156: Cylinder141
+    100158: Cylinder142
+    100160: Cylinder143
+    100162: Cylinder144
+    100164: Cylinder145
+    100166: Cylinder146
+    100168: Cylinder147
+    100170: Cylinder148
+    100172: Cylinder149
+    100174: Cylinder15
+    100176: Cylinder150
+    100178: Cylinder151
+    100180: Cylinder152
+    100182: Cylinder153
+    100184: Cylinder154
+    100186: Cylinder155
+    100188: Cylinder156
+    100190: Cylinder157
+    100192: Cylinder158
+    100194: Cylinder159
+    100196: Cylinder16
+    100198: Cylinder160
+    100200: Cylinder17
+    100202: Cylinder18
+    100204: Cylinder19
+    100206: Cylinder20
+    100208: Cylinder21
+    100210: Cylinder22
+    100212: Cylinder23
+    100214: Cylinder25
+    100216: Cylinder26
+    100218: Cylinder27
+    100220: Cylinder28
+    100222: Cylinder29
+    100224: Cylinder30
+    100226: Cylinder31
+    100228: Cylinder32
+    100230: Cylinder33
+    100232: Cylinder39
+    100234: Cylinder40
+    100236: Cylinder41
+    100238: Cylinder42
+    100240: Cylinder43
+    100242: Cylinder44
+    100244: Cylinder45
+    100246: Cylinder46
+    100248: Cylinder47
+    100250: Cylinder48
+    100252: Cylinder49
+    100254: Cylinder50
+    100256: Cylinder51
+    100258: Cylinder52
+    100260: Cylinder53
+    100262: Cylinder54
+    100264: Cylinder55
+    100266: Cylinder59
+    100268: Cylinder60
+    100270: Cylinder61
+    100272: Cylinder62
+    100274: Cylinder63
+    100276: Cylinder64
+    100278: Cylinder65
+    100280: Cylinder66
+    100282: Cylinder67
+    100284: Cylinder68
+    100286: Cylinder69
+    100288: Cylinder70
+    100290: Cylinder71
+    100292: Cylinder72
+    100294: Cylinder73
+    100296: Cylinder74
+    100298: Cylinder75
+    100300: Cylinder76
+    100302: Cylinder77
+    100304: Cylinder78
+    100306: Cylinder79
+    100308: Cylinder80
+    100310: Cylinder81
+    100312: Cylinder82
+    100314: Cylinder83
+    100316: Cylinder84
+    100318: Cylinder85
+    100320: Cylinder86
+    100322: Cylinder87
+    100324: Cylinder88
+    100326: Cylinder89
+    100328: Cylinder90
+    100330: Cylinder91
+    100332: Cylinder92
+    100334: Cylinder93
+    100336: Cylinder94
+    100338: Cylinder95
+    100340: Cylinder96
+    100342: Cylinder97
+    100344: Cylinder98
+    100346: Cylinder99
+    100348: Door Glass01
+    100350: Door Glass02
+    100352: Door left
+    100354: Door left01
+    100356: Door right01
+    100358: Door right02
+    100360: engine hood
+    100362: gear
+    100364: Headlight
+    100366: Headlight01
+    100368: //RootNode
+    100370: light
+    100372: light01
+    100374: Line01
+    100376: Object01
+    100378: Object02
+    100380: Object03
+    100382: Object04
+    100384: Object05
+    100386: Object06
+    100388: Object07
+    100390: Object08
+    100392: Object09
+    100394: Object10
+    100396: Object11
+    100398: Object12
+    100400: Object13
+    100402: Object14
+    100404: Object15
+    100406: Object16
+    100408: Object17
+    100410: Object18
+    100412: Object19
+    100414: Object20
+    100416: Object21
+    100418: Object22
+    100420: Object23
+    100422: Object24
+    100424: Object25
+    100426: Object26
+    100428: Object27
+    100430: Object28
+    100432: Object29
+    100434: Object30
+    100436: Plane01
+    100438: Plane02
+    100440: Plane03
+    100442: Plane04
+    100444: Plane05
+    100446: Plane06
+    100448: Plane07
+    100450: Plane08
+    100452: Plane09
+    100454: Plane10
+    100456: Plane13
+    100458: Plane14
+    100460: Plane15
+    100462: Plane16
+    100464: Plane17
+    100466: Plane18
+    100468: Plane19
+    100470: Plane20
+    100472: right mirror
+    100474: right mirror 1
+    100476: Right mirror body01
+    100478: Right mirror body02
+    100480: right mirror01
+    100482: right mirror02
+    100484: seat02
+    100486: seat1
+    100488: Sphere01
+    100490: Sphere02
+    100492: Sphere03
+    100494: Sphere04
+    100496: Sphere05
+    100498: Sphere06
+    100500: Sphere07
+    100502: Sphere08
+    100504: Sphere09
+    100506: Sphere10
+    100508: Sphere11
+    100510: Sphere12
+    100512: Sphere13
+    100514: Sphere14
+    100516: Sphere15
+    100518: Sphere16
+    100520: Tire 02
+    100522: Tire 03
+    100524: Tire 04
+    100526: Tire 1
+    100528: transmission
+    100530: Tube01
+    100532: Tube02
+    100534: Tube03
+    100536: Tube04
+    100538: Tube05
+    100540: Tube06
+    100542: Tube07
+    100544: Tube08
+    100546: Wind Screen
+    400000: ' 1'
+    400002: Back Light
+    400004: back light red
+    400006: Back window
+    400008: Back window01
+    400010: Body01
+    400012: Box01
+    400014: Box02
+    400016: Box03
+    400018: Box12
+    400020: Box13
+    400022: Box14
+    400024: Box15
+    400026: Box16
+    400028: Box19
+    400030: Box20
+    400032: Box21
+    400034: Box22
+    400036: Box23
+    400038: Box24
+    400040: Box25
+    400042: Box26
+    400044: Box27
+    400046: Box28
+    400048: Circle01
+    400050: Circle02
+    400052: Circle03
+    400054: Circle04
+    400056: Cylinder05
+    400058: Cylinder06
+    400060: Cylinder07
+    400062: Cylinder08
+    400064: Cylinder09
+    400066: Cylinder10
+    400068: Cylinder100
+    400070: Cylinder101
+    400072: Cylinder102
+    400074: Cylinder103
+    400076: Cylinder104
+    400078: Cylinder105
+    400080: Cylinder106
+    400082: Cylinder107
+    400084: Cylinder108
+    400086: Cylinder109
+    400088: Cylinder11
+    400090: Cylinder110
+    400092: Cylinder111
+    400094: Cylinder112
+    400096: Cylinder113
+    400098: Cylinder114
+    400100: Cylinder115
+    400102: Cylinder116
+    400104: Cylinder117
+    400106: Cylinder118
+    400108: Cylinder119
+    400110: Cylinder120
+    400112: Cylinder121
+    400114: Cylinder122
+    400116: Cylinder123
+    400118: Cylinder124
+    400120: Cylinder125
+    400122: Cylinder126
+    400124: Cylinder127
+    400126: Cylinder128
+    400128: Cylinder129
+    400130: Cylinder13
+    400132: Cylinder130
+    400134: Cylinder131
+    400136: Cylinder132
+    400138: Cylinder133
+    400140: Cylinder134
+    400142: Cylinder135
+    400144: Cylinder136
+    400146: Cylinder137
+    400148: Cylinder138
+    400150: Cylinder139
+    400152: Cylinder14
+    400154: Cylinder140
+    400156: Cylinder141
+    400158: Cylinder142
+    400160: Cylinder143
+    400162: Cylinder144
+    400164: Cylinder145
+    400166: Cylinder146
+    400168: Cylinder147
+    400170: Cylinder148
+    400172: Cylinder149
+    400174: Cylinder15
+    400176: Cylinder150
+    400178: Cylinder151
+    400180: Cylinder152
+    400182: Cylinder153
+    400184: Cylinder154
+    400186: Cylinder155
+    400188: Cylinder156
+    400190: Cylinder157
+    400192: Cylinder158
+    400194: Cylinder159
+    400196: Cylinder16
+    400198: Cylinder160
+    400200: Cylinder17
+    400202: Cylinder18
+    400204: Cylinder19
+    400206: Cylinder20
+    400208: Cylinder21
+    400210: Cylinder22
+    400212: Cylinder23
+    400214: Cylinder25
+    400216: Cylinder26
+    400218: Cylinder27
+    400220: Cylinder28
+    400222: Cylinder29
+    400224: Cylinder30
+    400226: Cylinder31
+    400228: Cylinder32
+    400230: Cylinder33
+    400232: Cylinder39
+    400234: Cylinder40
+    400236: Cylinder41
+    400238: Cylinder42
+    400240: Cylinder43
+    400242: Cylinder44
+    400244: Cylinder45
+    400246: Cylinder46
+    400248: Cylinder47
+    400250: Cylinder48
+    400252: Cylinder49
+    400254: Cylinder50
+    400256: Cylinder51
+    400258: Cylinder52
+    400260: Cylinder53
+    400262: Cylinder54
+    400264: Cylinder55
+    400266: Cylinder59
+    400268: Cylinder60
+    400270: Cylinder61
+    400272: Cylinder62
+    400274: Cylinder63
+    400276: Cylinder64
+    400278: Cylinder65
+    400280: Cylinder66
+    400282: Cylinder67
+    400284: Cylinder68
+    400286: Cylinder69
+    400288: Cylinder70
+    400290: Cylinder71
+    400292: Cylinder72
+    400294: Cylinder73
+    400296: Cylinder74
+    400298: Cylinder75
+    400300: Cylinder76
+    400302: Cylinder77
+    400304: Cylinder78
+    400306: Cylinder79
+    400308: Cylinder80
+    400310: Cylinder81
+    400312: Cylinder82
+    400314: Cylinder83
+    400316: Cylinder84
+    400318: Cylinder85
+    400320: Cylinder86
+    400322: Cylinder87
+    400324: Cylinder88
+    400326: Cylinder89
+    400328: Cylinder90
+    400330: Cylinder91
+    400332: Cylinder92
+    400334: Cylinder93
+    400336: Cylinder94
+    400338: Cylinder95
+    400340: Cylinder96
+    400342: Cylinder97
+    400344: Cylinder98
+    400346: Cylinder99
+    400348: Door Glass01
+    400350: Door Glass02
+    400352: Door left
+    400354: Door left01
+    400356: Door right01
+    400358: Door right02
+    400360: engine hood
+    400362: gear
+    400364: Headlight
+    400366: Headlight01
+    400368: //RootNode
+    400370: light
+    400372: light01
+    400374: Line01
+    400376: Object01
+    400378: Object02
+    400380: Object03
+    400382: Object04
+    400384: Object05
+    400386: Object06
+    400388: Object07
+    400390: Object08
+    400392: Object09
+    400394: Object10
+    400396: Object11
+    400398: Object12
+    400400: Object13
+    400402: Object14
+    400404: Object15
+    400406: Object16
+    400408: Object17
+    400410: Object18
+    400412: Object19
+    400414: Object20
+    400416: Object21
+    400418: Object22
+    400420: Object23
+    400422: Object24
+    400424: Object25
+    400426: Object26
+    400428: Object27
+    400430: Object28
+    400432: Object29
+    400434: Object30
+    400436: Plane01
+    400438: Plane02
+    400440: Plane03
+    400442: Plane04
+    400444: Plane05
+    400446: Plane06
+    400448: Plane07
+    400450: Plane08
+    400452: Plane09
+    400454: Plane10
+    400456: Plane13
+    400458: Plane14
+    400460: Plane15
+    400462: Plane16
+    400464: Plane17
+    400466: Plane18
+    400468: Plane19
+    400470: Plane20
+    400472: right mirror
+    400474: right mirror 1
+    400476: Right mirror body01
+    400478: Right mirror body02
+    400480: right mirror01
+    400482: right mirror02
+    400484: seat02
+    400486: seat1
+    400488: Sphere01
+    400490: Sphere02
+    400492: Sphere03
+    400494: Sphere04
+    400496: Sphere05
+    400498: Sphere06
+    400500: Sphere07
+    400502: Sphere08
+    400504: Sphere09
+    400506: Sphere10
+    400508: Sphere11
+    400510: Sphere12
+    400512: Sphere13
+    400514: Sphere14
+    400516: Sphere15
+    400518: Sphere16
+    400520: Tire 02
+    400522: Tire 03
+    400524: Tire 04
+    400526: Tire 1
+    400528: transmission
+    400530: Tube01
+    400532: Tube02
+    400534: Tube03
+    400536: Tube04
+    400538: Tube05
+    400540: Tube06
+    400542: Tube07
+    400544: Tube08
+    400546: Wind Screen
+    2100000: 04 - Default123
+    2100002: 10 - Default134
+    2100004: 23 - Default
+    2100006: 04 - Default213
+    2100008: 21 - Default1
+    2100010: 'Material #65'
+    2100012: 22 - Default6
+    2100014: Metal_ChromeFast12
+    2100016: Metal_ChromeFast
+    2100018: 22 - Default
+    2100020: Metal_ChromeFast1
+    2100022: 20 - Default
+    2100024: 12 - Default
+    2100026: 'Material #75'
+    2100028: 24 - Default
+    2100030: Metal_ChromeFast2
+    2100032: 007
+    2100034: car paint
+    2100036: 11 - Default
+    2100038: No Name
+    2100040: 19 - Default
+    2100042: 05 - Default
+    2100044: Metal_Chrome
+    2100046: seat
+    2100048: 'Material #191'
+    2100050: 'Material #204'
+    2100052: 21 - Default123134
+    2100054: 20 - Default3
+    2100056: 21 - Default
+    2100058: 04 - Defaultds
+    2300000: ' 1'
+    2300002: Back Light
+    2300004: back light red
+    2300006: Back window
+    2300008: Back window01
+    2300010: Body01
+    2300012: Box01
+    2300014: Box02
+    2300016: Box03
+    2300018: Box12
+    2300020: Box13
+    2300022: Box14
+    2300024: Box15
+    2300026: Box16
+    2300028: Box19
+    2300030: Box20
+    2300032: Box21
+    2300034: Box22
+    2300036: Box23
+    2300038: Box24
+    2300040: Box25
+    2300042: Box26
+    2300044: Box27
+    2300046: Box28
+    2300048: Circle01
+    2300050: Circle02
+    2300052: Circle03
+    2300054: Circle04
+    2300056: Cylinder05
+    2300058: Cylinder06
+    2300060: Cylinder07
+    2300062: Cylinder08
+    2300064: Cylinder09
+    2300066: Cylinder10
+    2300068: Cylinder100
+    2300070: Cylinder101
+    2300072: Cylinder102
+    2300074: Cylinder103
+    2300076: Cylinder104
+    2300078: Cylinder105
+    2300080: Cylinder106
+    2300082: Cylinder107
+    2300084: Cylinder108
+    2300086: Cylinder109
+    2300088: Cylinder11
+    2300090: Cylinder110
+    2300092: Cylinder111
+    2300094: Cylinder112
+    2300096: Cylinder113
+    2300098: Cylinder114
+    2300100: Cylinder115
+    2300102: Cylinder116
+    2300104: Cylinder117
+    2300106: Cylinder118
+    2300108: Cylinder119
+    2300110: Cylinder120
+    2300112: Cylinder121
+    2300114: Cylinder122
+    2300116: Cylinder123
+    2300118: Cylinder124
+    2300120: Cylinder125
+    2300122: Cylinder126
+    2300124: Cylinder127
+    2300126: Cylinder128
+    2300128: Cylinder129
+    2300130: Cylinder13
+    2300132: Cylinder130
+    2300134: Cylinder131
+    2300136: Cylinder132
+    2300138: Cylinder133
+    2300140: Cylinder134
+    2300142: Cylinder135
+    2300144: Cylinder136
+    2300146: Cylinder137
+    2300148: Cylinder138
+    2300150: Cylinder139
+    2300152: Cylinder14
+    2300154: Cylinder140
+    2300156: Cylinder141
+    2300158: Cylinder142
+    2300160: Cylinder143
+    2300162: Cylinder144
+    2300164: Cylinder145
+    2300166: Cylinder146
+    2300168: Cylinder147
+    2300170: Cylinder148
+    2300172: Cylinder149
+    2300174: Cylinder15
+    2300176: Cylinder150
+    2300178: Cylinder151
+    2300180: Cylinder152
+    2300182: Cylinder153
+    2300184: Cylinder154
+    2300186: Cylinder155
+    2300188: Cylinder156
+    2300190: Cylinder157
+    2300192: Cylinder158
+    2300194: Cylinder159
+    2300196: Cylinder16
+    2300198: Cylinder160
+    2300200: Cylinder17
+    2300202: Cylinder18
+    2300204: Cylinder19
+    2300206: Cylinder20
+    2300208: Cylinder21
+    2300210: Cylinder22
+    2300212: Cylinder23
+    2300214: Cylinder25
+    2300216: Cylinder26
+    2300218: Cylinder27
+    2300220: Cylinder28
+    2300222: Cylinder29
+    2300224: Cylinder30
+    2300226: Cylinder31
+    2300228: Cylinder32
+    2300230: Cylinder33
+    2300232: Cylinder39
+    2300234: Cylinder40
+    2300236: Cylinder41
+    2300238: Cylinder42
+    2300240: Cylinder43
+    2300242: Cylinder44
+    2300244: Cylinder45
+    2300246: Cylinder46
+    2300248: Cylinder47
+    2300250: Cylinder48
+    2300252: Cylinder49
+    2300254: Cylinder50
+    2300256: Cylinder51
+    2300258: Cylinder52
+    2300260: Cylinder53
+    2300262: Cylinder54
+    2300264: Cylinder55
+    2300266: Cylinder59
+    2300268: Cylinder60
+    2300270: Cylinder61
+    2300272: Cylinder62
+    2300274: Cylinder63
+    2300276: Cylinder64
+    2300278: Cylinder65
+    2300280: Cylinder66
+    2300282: Cylinder67
+    2300284: Cylinder68
+    2300286: Cylinder69
+    2300288: Cylinder70
+    2300290: Cylinder71
+    2300292: Cylinder72
+    2300294: Cylinder73
+    2300296: Cylinder74
+    2300298: Cylinder75
+    2300300: Cylinder76
+    2300302: Cylinder77
+    2300304: Cylinder78
+    2300306: Cylinder79
+    2300308: Cylinder80
+    2300310: Cylinder81
+    2300312: Cylinder82
+    2300314: Cylinder83
+    2300316: Cylinder84
+    2300318: Cylinder85
+    2300320: Cylinder86
+    2300322: Cylinder87
+    2300324: Cylinder88
+    2300326: Cylinder89
+    2300328: Cylinder90
+    2300330: Cylinder91
+    2300332: Cylinder92
+    2300334: Cylinder93
+    2300336: Cylinder94
+    2300338: Cylinder95
+    2300340: Cylinder96
+    2300342: Cylinder97
+    2300344: Cylinder98
+    2300346: Cylinder99
+    2300348: Door Glass01
+    2300350: Door Glass02
+    2300352: Door right01
+    2300354: Door right02
+    2300356: engine hood
+    2300358: gear
+    2300360: Headlight
+    2300362: Headlight01
+    2300364: light
+    2300366: light01
+    2300368: Line01
+    2300370: Object01
+    2300372: Object02
+    2300374: Object03
+    2300376: Object04
+    2300378: Object05
+    2300380: Object06
+    2300382: Object07
+    2300384: Object08
+    2300386: Object09
+    2300388: Object10
+    2300390: Object11
+    2300392: Object12
+    2300394: Object13
+    2300396: Object14
+    2300398: Object15
+    2300400: Object16
+    2300402: Object17
+    2300404: Object18
+    2300406: Object19
+    2300408: Object20
+    2300410: Object21
+    2300412: Object22
+    2300414: Object23
+    2300416: Object24
+    2300418: Object25
+    2300420: Object26
+    2300422: Object27
+    2300424: Object28
+    2300426: Object29
+    2300428: Object30
+    2300430: Plane01
+    2300432: Plane02
+    2300434: Plane03
+    2300436: Plane04
+    2300438: Plane05
+    2300440: Plane06
+    2300442: Plane07
+    2300444: Plane08
+    2300446: Plane09
+    2300448: Plane10
+    2300450: Plane13
+    2300452: Plane14
+    2300454: Plane15
+    2300456: Plane16
+    2300458: Plane17
+    2300460: Plane18
+    2300462: Plane19
+    2300464: Plane20
+    2300466: right mirror 1
+    2300468: Right mirror body01
+    2300470: Right mirror body02
+    2300472: right mirror01
+    2300474: right mirror02
+    2300476: Sphere01
+    2300478: Sphere02
+    2300480: Sphere03
+    2300482: Sphere04
+    2300484: Sphere05
+    2300486: Sphere06
+    2300488: Sphere07
+    2300490: Sphere08
+    2300492: Sphere09
+    2300494: Sphere10
+    2300496: Sphere11
+    2300498: Sphere12
+    2300500: Sphere13
+    2300502: Sphere14
+    2300504: Sphere15
+    2300506: Sphere16
+    2300508: Tire 02
+    2300510: Tire 03
+    2300512: Tire 04
+    2300514: Tire 1
+    2300516: transmission
+    2300518: Tube01
+    2300520: Tube02
+    2300522: Tube03
+    2300524: Tube04
+    2300526: Tube05
+    2300528: Tube06
+    2300530: Tube07
+    2300532: Tube08
+    2300534: Wind Screen
+    3300000: ' 1'
+    3300002: Back Light
+    3300004: back light red
+    3300006: Back window
+    3300008: Back window01
+    3300010: Body01
+    3300012: Box01
+    3300014: Box02
+    3300016: Box03
+    3300018: Box12
+    3300020: Box13
+    3300022: Box14
+    3300024: Box15
+    3300026: Box16
+    3300028: Box19
+    3300030: Box20
+    3300032: Box21
+    3300034: Box22
+    3300036: Box23
+    3300038: Box24
+    3300040: Box25
+    3300042: Box26
+    3300044: Box27
+    3300046: Box28
+    3300048: Circle01
+    3300050: Circle02
+    3300052: Circle03
+    3300054: Circle04
+    3300056: Cylinder05
+    3300058: Cylinder06
+    3300060: Cylinder07
+    3300062: Cylinder08
+    3300064: Cylinder09
+    3300066: Cylinder10
+    3300068: Cylinder100
+    3300070: Cylinder101
+    3300072: Cylinder102
+    3300074: Cylinder103
+    3300076: Cylinder104
+    3300078: Cylinder105
+    3300080: Cylinder106
+    3300082: Cylinder107
+    3300084: Cylinder108
+    3300086: Cylinder109
+    3300088: Cylinder11
+    3300090: Cylinder110
+    3300092: Cylinder111
+    3300094: Cylinder112
+    3300096: Cylinder113
+    3300098: Cylinder114
+    3300100: Cylinder115
+    3300102: Cylinder116
+    3300104: Cylinder117
+    3300106: Cylinder118
+    3300108: Cylinder119
+    3300110: Cylinder120
+    3300112: Cylinder121
+    3300114: Cylinder122
+    3300116: Cylinder123
+    3300118: Cylinder124
+    3300120: Cylinder125
+    3300122: Cylinder126
+    3300124: Cylinder127
+    3300126: Cylinder128
+    3300128: Cylinder129
+    3300130: Cylinder13
+    3300132: Cylinder130
+    3300134: Cylinder131
+    3300136: Cylinder132
+    3300138: Cylinder133
+    3300140: Cylinder134
+    3300142: Cylinder135
+    3300144: Cylinder136
+    3300146: Cylinder137
+    3300148: Cylinder138
+    3300150: Cylinder139
+    3300152: Cylinder14
+    3300154: Cylinder140
+    3300156: Cylinder141
+    3300158: Cylinder142
+    3300160: Cylinder143
+    3300162: Cylinder144
+    3300164: Cylinder145
+    3300166: Cylinder146
+    3300168: Cylinder147
+    3300170: Cylinder148
+    3300172: Cylinder149
+    3300174: Cylinder15
+    3300176: Cylinder150
+    3300178: Cylinder151
+    3300180: Cylinder152
+    3300182: Cylinder153
+    3300184: Cylinder154
+    3300186: Cylinder155
+    3300188: Cylinder156
+    3300190: Cylinder157
+    3300192: Cylinder158
+    3300194: Cylinder159
+    3300196: Cylinder16
+    3300198: Cylinder160
+    3300200: Cylinder17
+    3300202: Cylinder18
+    3300204: Cylinder19
+    3300206: Cylinder20
+    3300208: Cylinder21
+    3300210: Cylinder22
+    3300212: Cylinder23
+    3300214: Cylinder25
+    3300216: Cylinder26
+    3300218: Cylinder27
+    3300220: Cylinder28
+    3300222: Cylinder29
+    3300224: Cylinder30
+    3300226: Cylinder31
+    3300228: Cylinder32
+    3300230: Cylinder33
+    3300232: Cylinder39
+    3300234: Cylinder40
+    3300236: Cylinder41
+    3300238: Cylinder42
+    3300240: Cylinder43
+    3300242: Cylinder44
+    3300244: Cylinder45
+    3300246: Cylinder46
+    3300248: Cylinder47
+    3300250: Cylinder48
+    3300252: Cylinder49
+    3300254: Cylinder50
+    3300256: Cylinder51
+    3300258: Cylinder52
+    3300260: Cylinder53
+    3300262: Cylinder54
+    3300264: Cylinder55
+    3300266: Cylinder59
+    3300268: Cylinder60
+    3300270: Cylinder61
+    3300272: Cylinder62
+    3300274: Cylinder63
+    3300276: Cylinder64
+    3300278: Cylinder65
+    3300280: Cylinder66
+    3300282: Cylinder67
+    3300284: Cylinder68
+    3300286: Cylinder69
+    3300288: Cylinder70
+    3300290: Cylinder71
+    3300292: Cylinder72
+    3300294: Cylinder73
+    3300296: Cylinder74
+    3300298: Cylinder75
+    3300300: Cylinder76
+    3300302: Cylinder77
+    3300304: Cylinder78
+    3300306: Cylinder79
+    3300308: Cylinder80
+    3300310: Cylinder81
+    3300312: Cylinder82
+    3300314: Cylinder83
+    3300316: Cylinder84
+    3300318: Cylinder85
+    3300320: Cylinder86
+    3300322: Cylinder87
+    3300324: Cylinder88
+    3300326: Cylinder89
+    3300328: Cylinder90
+    3300330: Cylinder91
+    3300332: Cylinder92
+    3300334: Cylinder93
+    3300336: Cylinder94
+    3300338: Cylinder95
+    3300340: Cylinder96
+    3300342: Cylinder97
+    3300344: Cylinder98
+    3300346: Cylinder99
+    3300348: Door Glass01
+    3300350: Door Glass02
+    3300352: Door right01
+    3300354: Door right02
+    3300356: engine hood
+    3300358: gear
+    3300360: Headlight
+    3300362: Headlight01
+    3300364: light
+    3300366: light01
+    3300368: Line01
+    3300370: Object01
+    3300372: Object02
+    3300374: Object03
+    3300376: Object04
+    3300378: Object05
+    3300380: Object06
+    3300382: Object07
+    3300384: Object08
+    3300386: Object09
+    3300388: Object10
+    3300390: Object11
+    3300392: Object12
+    3300394: Object13
+    3300396: Object14
+    3300398: Object15
+    3300400: Object16
+    3300402: Object17
+    3300404: Object18
+    3300406: Object19
+    3300408: Object20
+    3300410: Object21
+    3300412: Object22
+    3300414: Object23
+    3300416: Object24
+    3300418: Object25
+    3300420: Object26
+    3300422: Object27
+    3300424: Object28
+    3300426: Object29
+    3300428: Object30
+    3300430: Plane01
+    3300432: Plane02
+    3300434: Plane03
+    3300436: Plane04
+    3300438: Plane05
+    3300440: Plane06
+    3300442: Plane07
+    3300444: Plane08
+    3300446: Plane09
+    3300448: Plane10
+    3300450: Plane13
+    3300452: Plane14
+    3300454: Plane15
+    3300456: Plane16
+    3300458: Plane17
+    3300460: Plane18
+    3300462: Plane19
+    3300464: Plane20
+    3300466: right mirror 1
+    3300468: Right mirror body01
+    3300470: Right mirror body02
+    3300472: right mirror01
+    3300474: right mirror02
+    3300476: Sphere01
+    3300478: Sphere02
+    3300480: Sphere03
+    3300482: Sphere04
+    3300484: Sphere05
+    3300486: Sphere06
+    3300488: Sphere07
+    3300490: Sphere08
+    3300492: Sphere09
+    3300494: Sphere10
+    3300496: Sphere11
+    3300498: Sphere12
+    3300500: Sphere13
+    3300502: Sphere14
+    3300504: Sphere15
+    3300506: Sphere16
+    3300508: Tire 02
+    3300510: Tire 03
+    3300512: Tire 04
+    3300514: Tire 1
+    3300516: transmission
+    3300518: Tube01
+    3300520: Tube02
+    3300522: Tube03
+    3300524: Tube04
+    3300526: Tube05
+    3300528: Tube06
+    3300530: Tube07
+    3300532: Tube08
+    3300534: Wind Screen
+    4300000: Plane15
+    4300002: Cylinder153
+    4300004: Cylinder154
+    4300006: Plane16
+    4300008: Cylinder155
+    4300010: Cylinder156
+    4300012: Cylinder08
+    4300014: Cylinder07
+    4300016: Plane05
+    4300018: Cylinder06
+    4300020: Cylinder05
+    4300022: Plane04
+    4300024: Line01
+    4300026: Object09
+    4300028: Tire 1
+    4300030: Cylinder10
+    4300032: Tube01
+    4300034: Tube02
+    4300036: Cylinder17
+    4300038: Sphere04
+    4300040: Sphere03
+    4300042: Sphere02
+    4300044: Sphere01
+    4300046: Box01
+    4300048: Cylinder15
+    4300050: Circle01
+    4300052: Cylinder14
+    4300054: Cylinder13
+    4300056: Cylinder49
+    4300058: Cylinder48
+    4300060: Cylinder47
+    4300062: Cylinder46
+    4300064: Cylinder45
+    4300066: Cylinder44
+    4300068: Cylinder54
+    4300070: Cylinder42
+    4300072: Cylinder41
+    4300074: Cylinder40
+    4300076: Cylinder39
+    4300078: Cylinder32
+    4300080: Cylinder31
+    4300082: Cylinder09
+    4300084: Cylinder30
+    4300086: Cylinder29
+    4300088: Cylinder28
+    4300090: Cylinder27
+    4300092: Cylinder50
+    4300094: Object08
+    4300096: Object07
+    4300098: Object05
+    4300100: Cylinder11
+    4300102: Cylinder26
+    4300104: Cylinder51
+    4300106: Cylinder52
+    4300108: Object06
+    4300110: Cylinder53
+    4300112: Cylinder43
+    4300114: Object26
+    4300116: Tire 04
+    4300118: Cylinder152
+    4300120: Tube08
+    4300122: Tube07
+    4300124: Cylinder151
+    4300126: Sphere16
+    4300128: Sphere15
+    4300130: Sphere14
+    4300132: Sphere13
+    4300134: Box24
+    4300136: Cylinder150
+    4300138: Circle04
+    4300140: Cylinder149
+    4300142: Cylinder148
+    4300144: Cylinder147
+    4300146: Cylinder146
+    4300148: Cylinder145
+    4300150: Cylinder144
+    4300152: Cylinder143
+    4300154: Cylinder142
+    4300156: Cylinder141
+    4300158: Cylinder140
+    4300160: Cylinder139
+    4300162: Cylinder138
+    4300164: Cylinder137
+    4300166: Cylinder136
+    4300168: Cylinder135
+    4300170: Cylinder134
+    4300172: Cylinder133
+    4300174: Cylinder132
+    4300176: Cylinder131
+    4300178: Cylinder130
+    4300180: Cylinder129
+    4300182: Object25
+    4300184: Object24
+    4300186: Cylinder128
+    4300188: Cylinder127
+    4300190: Cylinder126
+    4300192: Cylinder125
+    4300194: Object23
+    4300196: Cylinder124
+    4300198: Cylinder123
+    4300200: Object22
+    4300202: Object21
+    4300204: Tire 03
+    4300206: Cylinder122
+    4300208: Tube06
+    4300210: Tube05
+    4300212: Cylinder121
+    4300214: Sphere12
+    4300216: Sphere11
+    4300218: Sphere10
+    4300220: Sphere09
+    4300222: Box23
+    4300224: Cylinder120
+    4300226: Circle03
+    4300228: Cylinder119
+    4300230: Cylinder118
+    4300232: Cylinder117
+    4300234: Cylinder116
+    4300236: Cylinder115
+    4300238: Cylinder114
+    4300240: Cylinder113
+    4300242: Cylinder112
+    4300244: Cylinder111
+    4300246: Cylinder110
+    4300248: Cylinder109
+    4300250: Cylinder108
+    4300252: Cylinder107
+    4300254: Cylinder106
+    4300256: Cylinder105
+    4300258: Cylinder104
+    4300260: Cylinder103
+    4300262: Cylinder102
+    4300264: Cylinder101
+    4300266: Cylinder100
+    4300268: Cylinder99
+    4300270: Object20
+    4300272: Object19
+    4300274: Cylinder98
+    4300276: Cylinder97
+    4300278: Cylinder96
+    4300280: Cylinder95
+    4300282: Object18
+    4300284: Cylinder94
+    4300286: Cylinder93
+    4300288: Object17
+    4300290: Object16
+    4300292: Tire 02
+    4300294: Cylinder92
+    4300296: Tube04
+    4300298: Tube03
+    4300300: Cylinder91
+    4300302: Sphere08
+    4300304: Sphere07
+    4300306: Sphere06
+    4300308: Sphere05
+    4300310: Box22
+    4300312: Cylinder90
+    4300314: Circle02
+    4300316: Cylinder89
+    4300318: Cylinder88
+    4300320: Cylinder87
+    4300322: Cylinder86
+    4300324: Cylinder85
+    4300326: Cylinder84
+    4300328: Cylinder83
+    4300330: Cylinder82
+    4300332: Cylinder81
+    4300334: Cylinder80
+    4300336: Cylinder79
+    4300338: Cylinder78
+    4300340: Cylinder77
+    4300342: Cylinder76
+    4300344: Cylinder75
+    4300346: Cylinder74
+    4300348: Cylinder73
+    4300350: Cylinder72
+    4300352: Cylinder71
+    4300354: Cylinder70
+    4300356: Cylinder69
+    4300358: Object15
+    4300360: Object14
+    4300362: Cylinder68
+    4300364: Cylinder67
+    4300366: Cylinder66
+    4300368: Cylinder65
+    4300370: Object13
+    4300372: Cylinder64
+    4300374: Cylinder63
+    4300376: Object12
+    4300378: Door right02
+    4300380: Right mirror body02
+    4300382: Door Glass02
+    4300384: right mirror02
+    4300386: right mirror
+    4300388: Plane20
+    4300390: Plane03
+    4300392: Right mirror body01
+    4300394: Door Glass01
+    4300396: right mirror01
+    4300398: Door right01
+    4300400: Box25
+    4300402: Box28
+    4300404: Plane19
+    4300406: Plane02
+    4300408: Box26
+    4300410: Cylinder157
+    4300412: Cylinder158
+    4300414: Box27
+    4300416: Cylinder159
+    4300418: Plane17
+    4300420: Plane18
+    4300422: Cylinder160
+    4300424: Box19
+    4300426: Cylinder60
+    4300428: Cylinder61
+    4300430: Box20
+    4300432: Cylinder59
+    4300434: Plane13
+    4300436: Plane14
+    4300438: Cylinder62
+    4300440: Object30
+    4300442: Box03
+    4300444: Object29
+    4300446: Object28
+    4300448: Object27
+    4300450: back light red
+    4300452: Box02
+    4300454: Box21
+    4300456: Cylinder55
+    4300458: Cylinder33
+    4300460: Box16
+    4300462: Object11
+    4300464: Box15
+    4300466: Box13
+    4300468: Box12
+    4300470: Box14
+    4300472: gear
+    4300474: Cylinder23
+    4300476: transmission
+    4300478: Plane10
+    4300480: Cylinder25
+    4300482: Object10
+    4300484: Cylinder22
+    4300486: Cylinder21
+    4300488: Cylinder20
+    4300490: Cylinder19
+    4300492: Plane09
+    4300494: Plane08
+    4300496: Cylinder18
+    4300498: Plane07
+    4300500: Plane06
+    4300502: Cylinder16
+    4300506: Plane01
+    4300508: Headlight01
+    4300510: light01
+    4300512: Object04
+    4300514: Object03
+    4300516: light
+    4300518: Back window01
+    4300520: Back window
+    4300522: Object02
+    4300524: Body01
+    4300526: engine hood
+    4300528: Wind Screen
+    4300530: Back Light
+    4300532: Object01
+    4300534: Headlight
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
